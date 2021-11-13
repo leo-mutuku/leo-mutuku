@@ -1,5 +1,5 @@
 - 👋 Hi,
-- 👀 I’m a seasoned developer experienced in web development and APIs
+- 👀 I’m a seasoned developer experienced in web development and APIs and a data analyst
 -  AWS cloud practioner Certified. 
 -  A good project manager, loves agile and scrum methodology.
 - 🌱 My dev stack include JavaScript(nodejs, angular & reactjs), paython (django framework) and Java(Springboot). Databases (Mongodb, dynamodb and postgresql)
