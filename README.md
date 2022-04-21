@@ -1,5 +1,5 @@
 - 👋 Hi,
-- 👀 I am fullstack developin springboot and nodejs, angular and react js. 
+- 👀 I am fullstack in springboot, nodejs, angular and react js. 
 -  Looking for roles in DevOps, fullstack, backend or front 
 -  A good project manager, loves agile and scrum methodology.
 - 🌱 good understanding of data structures and algorithms
