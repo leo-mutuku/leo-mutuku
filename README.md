@@ -1,8 +1,8 @@
 - 👋 Hi,
-- 👀 I’m a seasoned developer experienced in web development and APIs and a data analyst
--  AWS cloud practioner Certified. 
+- 👀 I am fullstack developin springboot and nodejs, angular and react js. 
+-  Looking for roles in DevOps, fullstack, backend or front 
 -  A good project manager, loves agile and scrum methodology.
-- 🌱 My dev stack include JavaScript(nodejs, angular & reactjs), paython (django framework) and Java(Springboot). Databases (Mongodb, dynamodb and postgresql)
+- 🌱 good understanding of data structures and algorithms
 - 💞️ I'm a lively and team builder
 - 📫 contact - le.mutuku@gmail.com
 
