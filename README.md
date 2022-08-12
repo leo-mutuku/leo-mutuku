@@ -35,5 +35,8 @@
 
 # 2021 Mongulafrica Fullstack developer Javacript
 - Plugin (train walk-though) A javascript plugin automate users training entirely build on vanilla javascript.
-- 
+- Competence Based Learning system - Kenyan new curriclum - ongoing
+- School management system (Mern) - Modules exams, finance, fleet and procurement(Launced)
+- Point of sale (Mern) - ongoing
+- Staff performance reporting - completed (iterations ongoing)
 
