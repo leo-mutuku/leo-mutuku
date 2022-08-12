@@ -4,12 +4,12 @@
 - I'm punctual to deadlines. My goal is to deliver value to clients. Thank you
 
 + Expert level
-[x] Javascript
-[x] Reactjs16X 
-[x] React Native
+[+] Javascript
+[+] Reactjs16X 
+[+] React Native
 
-[x] Nodejs
+[+] Nodejs
 
-Skilled
-[X] Java
-[x] Python
+- Skilled
+[+] Java
+[+] Python
