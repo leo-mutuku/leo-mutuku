@@ -18,3 +18,13 @@
 
 #
 # Projects
+
+# 2016 - 2018 In college and 1 year after college.
+- Appointement schedulling - #php/#javascript lecturer-student project monitoring (Technical University of Mombasa)
+- Counttube ecommerce - #php / #javascript  Eccomerce platform wide used by start and shop owner at mombasa county.
+- NCPB website - Wordpress (Redesigned the organization website while working as intern and the website served upto 4 years (2018, 2019, 2020,2021))
+- Nafaka sacco - Wordpress - Nafaka sacco (currently nafasi sacco) Build a new website for the sacco which has served for 4 years (2018, 2019, 2020, 2021) The sacco rebraded in 2022.
+- 
+# 2019
+- Helpdesk system build a website nodejs, react,postgressql helpdesk system - National cereals and produce.
+-  
