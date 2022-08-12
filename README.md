@@ -30,3 +30,6 @@
 - Integrated Food balance sheet system - consume API from Ministry of Agricultu to build analytics dashboard - Javascript, jquery, html and css
 - Staff chat bot - Build a chat bot for staff collaboration
 # 2020 National Cereals and produce board
+- Implementation of Dynamics 2017 ERP, throug the year I exclusively worked on on testing and updating different modules of the ERP, this included finance, operations, procurement, hr sales and marketing among others.
+
+# 2021 Mongulafrica
