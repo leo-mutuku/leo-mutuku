@@ -43,6 +43,6 @@
 
 <h3>Portfolio</h3>
 <p>
-<span>Tittle</span>
-<span><img src="" ></span>
+<span style="color:green; bold:900">Tittle</span>
+<span style="float:left"><img src="" ></span>
 </p>
