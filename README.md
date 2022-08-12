@@ -38,5 +38,7 @@
 - Competence Based Learning system - Kenyan new curriclum - ongoing
 - School management system (Mern) - Modules exams, finance, fleet and procurement(Launced)
 - Point of sale (Mern) - ongoing
-- Staff performance reporting - completed (iterations ongoing)
+- Staff performance reporting - completed (iterations ongoing)- (Nodejs & Angular)
+- Mobile payment solution integration- (MTN zambia & Mpesa - kenya)- (Nodejs and react native)
+- 
 
