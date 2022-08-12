@@ -33,12 +33,11 @@
 # 2020 National Cereals and produce board
 - Implementation of Dynamics 2017 ERP, throug the year I exclusively worked on on testing and updating different modules of the ERP, this included finance, operations, procurement, hr sales and marketing among others.
 
-# 2021 Mongulafrica Fullstack developer Javacript
+# 2021 - 2022 Mongulafrica Fullstack developer Javacript
 - Plugin (train walk-though) A javascript plugin automate users training entirely build on vanilla javascript.
 - Competence Based Learning system - Kenyan new curriclum - ongoing
 - School management system (Mern) - Modules exams, finance, fleet and procurement(Launced)
 - Point of sale (Mern) - ongoing
 - Staff performance reporting - completed (iterations ongoing)- (Nodejs & Angular)
 - Mobile payment solution integration- (MTN zambia & Mpesa - kenya)- (Nodejs and react native)
-- 
 
