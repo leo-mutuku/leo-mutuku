@@ -25,8 +25,8 @@
 - NCPB website - Wordpress (Redesigned the organization website while working as intern and the website served upto 4 years (2018, 2019, 2020,2021))
 - Nafaka sacco - Wordpress - Nafaka sacco (currently nafasi sacco) Build a new website for the sacco which has served for 4 years (2018, 2019, 2020, 2021) The sacco rebraded in 2022.
 - 
-# 2019 On contract at Natinal Cereals and produce board
+# 2019 Natinal Cereals and produce board
 - Helpdesk system build a website nodejs, react,postgressql helpdesk system - National cereals and produce.
 - Integrated Food balance sheet system - consume API from Ministry of Agricultu to build analytics dashboard - Javascript, jquery, html and css
 - Staff chat bot - Build a chat bot for staff collaboration
-# 2020
+# 2020 National Cereals and produce board
