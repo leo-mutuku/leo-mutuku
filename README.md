@@ -45,4 +45,7 @@
 <p>
 <span style="color:green; bold:900">Tittle</span>
 <span style="float:left"><img src="" ></span>
+  &nbsp;  &nbsp;   &nbsp;
+  <span style="color:green; bold:900">Tittle</span>
+<span style="float:left"><img src="" ></span>
 </p>
