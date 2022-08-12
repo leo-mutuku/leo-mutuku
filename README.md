@@ -41,7 +41,7 @@
 - Staff performance reporting - completed (iterations ongoing)- (Nodejs & Angular)
 - Mobile payment solution integration- (MTN zambia & Mpesa - kenya)- (Nodejs and react native)
 
-<h3>Portfolio</h3>
+<h3>Portfolio - project links </h3>
 <p>
 <span style="color:green; bold:900">Tittle</span>
 <span style="float:left"><img src="" ></span>
