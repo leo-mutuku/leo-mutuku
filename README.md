@@ -11,6 +11,7 @@
 + Nodejs
 + mongodb
 + postgres
++ Django
 
 # Skilled
 [+] Java
