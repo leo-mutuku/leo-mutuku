@@ -1,24 +1,11 @@
 # Leonard Mutuku
-- I am an experienced software developer with 4+ years in Software development based company and worked on mongodb extensively for the last 2 years mastering the aggregation framework,charts and analytics.
-- My main skills are API development, database design, third party integration and javascript  framework.
-- I am versalite with cloud tools and have previously managed work loads on AWS and Linode.
-- I'm punctual to deadlines. My goal is to deliver value to clients. Thank you
+- Leonard is a seasoned developer with fullstack expertise, currently working in a fintech startup as a fullstack developer.
 
 # Expert level
-+ Javascript
-+ Reactjs16X 
-+ React Native
-+ Nodejs
-+ mongodb
-+ postgres
-+ Django
++ Reactjs, React native, Flatter
++ Spring boot, nodejs
++ Git, docker, Devops
 
-# Skilled
-[+] Java
-[+] Python
-[+] c#
-
-#
 # Projects
 
 # 2016 - 2018 In college and 1 year after college. Developer intern
@@ -29,16 +16,16 @@
 - 
 # 2019 Natinal Cereals and produce board Developer ICT officer
 - Helpdesk system build a website nodejs, react,postgressql helpdesk system - National cereals and produce.
-- Integrated Food balance sheet system - consume API from Ministry of Agricultu to build analytics dashboard - Javascript, jquery, html and css
+- Integrated Food balance sheet system - consume API from Ministry of Agriculture to build analytics dashboard - Javascript, jquery, html and css
 - Staff chat bot - Build a chat bot for staff collaboration
 # 2020 National Cereals and produce board
-- Implementation of Dynamics 2017 ERP, throug the year I exclusively worked on on testing and updating different modules of the ERP, this included finance, operations, procurement, hr sales and marketing among others.
+- Implementation of Dynamics BC , through the year I exclusively worked on on testing and updating different modules of the ERP, this included finance, operations, procurement, hr sales and marketing among others.
 
 # 2021 - 2022 Mongulafrica Fullstack developer Javacript
 - Plugin (train walk-though) A javascript plugin automate users training entirely build on vanilla javascript.
-- Competence Based Learning system - Kenyan new curriclum - ongoing
+- Competence Based Learning system - Kenyan new curriclum 
 - School management system (Mern) - Modules exams, finance, fleet and procurement(Launced)
-- Point of sale (Mern) - ongoing
+- Point of sale (Mern) 
 - Staff performance reporting - completed (iterations ongoing)- (Nodejs & Angular)
 - Mobile payment solution integration- (MTN zambia & Mpesa - kenya)- (Nodejs and react native)
 
