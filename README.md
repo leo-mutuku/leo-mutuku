@@ -2,7 +2,7 @@
 - Leonard is a seasoned developer with fullstack expertise, currently working in a fintech startup as a fullstack developer.
 
 # Expert level
-+ Reactjs, React native, Flatter
++ Nextjs, Reactjs, React native, Flatter
 + Spring boot, nodejs
 + Git, docker, Devops
 
