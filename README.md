@@ -12,15 +12,15 @@
   
 # 2016 - 2018 In college and 1 year after college. Developer intern
 + Developed web application in php and javascript
-   - Links to past projects
-   [x] www.ncpb.co.ke
-   [x] www.nafasisacco.co.ke
-   [] www.mogulafric.co.ke
+   + Links to past projects
+   - www.ncpb.co.ke
+   - www.nafasisacco.co.ke
+   - www.mogulafric.co.ke
    - www.icta.go.ke
    - 
 # 2019 Natinal Cereals and produce board Developer ICT officer
-  [x] ERP support dynamics nav 2017
-  [x] Web based applications (Nodejs React)
+  - ERP support dynamics nav 2017
+  - Web based applications (Nodejs React)
   
 # 2021 - 2022 Mongulafrica Fullstack developer Javacript
 - Plugin (train walk-though) A javascript plugin automate users training entirely build on vanilla javascript.
