@@ -12,12 +12,12 @@
   
 # 2016 - 2018 In college and 1 year after college. Developer intern
 + Developed web application in php and javascript
-   + Links to past projects
+   ++ Links to past projects
    - www.ncpb.co.ke
    - www.nafasisacco.co.ke
    - www.mogulafric.co.ke
    - www.icta.go.ke
-   - 
+    
 # 2019 Natinal Cereals and produce board Developer ICT officer
   - ERP support dynamics nav 2017
   - Web based applications (Nodejs React)
