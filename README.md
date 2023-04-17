@@ -1,12 +1,13 @@
 # Leonard Mutuku
-- Leonard is a seasoned developer with fullstack expertise, currently working in a fintech startup as a fullstack developer.
+- Fullstack developer focusing on fintech | Strong base in banking and finance
 
-# Expert level
+# Expert in
 + Nextjs, Reactjs, React native, Flatter
 + Spring boot, nodejs
 + Git, docker, Devops
 
 # Projects
+- Scriptfund
 
 # 2016 - 2018 In college and 1 year after college. Developer intern
 - Appointement schedulling - #php/#javascript lecturer-student project monitoring (Technical University of Mombasa)
