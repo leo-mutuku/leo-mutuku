@@ -12,7 +12,7 @@
   
 # 2016 - 2018 In college and 1 year after college. Developer intern
 + Developed web application in php and javascript
-   ++ Links to past projects
+   + Links to past projects
    - www.ncpb.co.ke
    - www.nafasisacco.co.ke
    - www.mogulafric.co.ke
