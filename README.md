@@ -2,7 +2,7 @@
  [x] Fullstack developer focusing on fintech | Strong base in banking and finance
 
 # Expert in
- [ x ] Nextjs, Reactjs, React native, Flatter
+ - [x] Nextjs, Reactjs, React native, Flatter
  [ x ] Spring boot, nodejs
  [x] Git, docker, Devops
 
