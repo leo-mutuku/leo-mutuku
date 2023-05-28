@@ -1,14 +1,14 @@
 # Leonard Mutuku
-- [x] Fullstack developer focusing on fintech | Strong base in banking and finance
-
+- [x] Fullstack developer focusing on fintech and atumation.
 # Expert in
- - [x] Nextjs, Reactjs, React native, Flatter
- - [x] Spring boot, nodejs
+ - [x] Nextjs, Reactjs, React native
+ - [x] Spring boot, nodejs, D365 
  - [x] Git, docker, Devops
 
 # Current projects
 - [x] Scriptfund 
 - [x] Titulo
+- [x] NRS SAcco
   
 # 2016 - 2018 In college and 1 year after college. Developer intern
 + Developed web application in php and javascript
