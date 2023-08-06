@@ -48,5 +48,16 @@
  🏫 Learning Institution 😍😍
  
  🏡 Real Estate 😍😍
+
+<h3 style"font-family: Courier, monospace;"> Contribution</h3>
+
+🥂 Code The Dream
+
+🥂 Code With Leo
+
+<h3> Talk to</h3>
+📧 le.mutuku@gmail.com😍
+
+☎️ +254715073726
  
 
