@@ -30,6 +30,8 @@
  📌 Data stractures & Algorithms
  
  📌 Object Oriented Programming
+
+  📌 DevOps and Cloud Technonlogies
  
  📌 Functional Programing
  
