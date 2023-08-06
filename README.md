@@ -1,4 +1,4 @@
-<h3 style"font-family: Courier, monospace;"> Leonard Mutuku </h3>
+<h3 style"font-family: Courier, monospace; color💙"> Leonard Mutuku </h3>
 - [x] Fullstack developer focusing on fintech and atumation.
 <h3 style"font-family: Courie
  r, monospace;"> Programing Languages & Frameworks </h3>
