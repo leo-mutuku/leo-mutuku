@@ -38,10 +38,15 @@
  🧷 Blockchain , Smart contract Distributed Ledger
 
  <h3> Domain Previous Worked</h3>
+ 
  🛒 E-commerce 😍😍
+ 
  🥘 Agriculture and Food Processing 😍😍
+ 
  🏦 Fintech & Banking 😍😍
+ 
  🏫 Learning Institution 😍😍
+ 
  🏡 Real Estate 😍😍
  
 
