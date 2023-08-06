@@ -1,11 +1,15 @@
 <h3 style"font-family: Courier, monospace;"> Leonard Mutuku </h3>
 - [x] Fullstack developer focusing on fintech and atumation.
-# Expert in
- - [x] Nextjs, Reactjs, React native
- - [x] Spring boot, java, nodejs, Haskell
- - [x] Git, docker, Devops
- - [X] Blockchain
--  [X] Mentor , Content Creator (Open Source)
+<h3 style"font-family: Courier, monospace;"> Programing Languages & Frameworks </h3>
+ - [x] Java, Spring boot
+ - [x] Javascript - Nodejs, React, Nextjs
+ - [x] Typescript - Nodejs, React, Nextjs
+ 
+ - [x] Figma - Prototype
+
+ - [X] Prisma-ORM, Hibenate, PostgresQl, MySql, MSSQL 
+
+
 
 <a href="https://codewithleo.vercel.app/"> Codewithleo</a>
 
