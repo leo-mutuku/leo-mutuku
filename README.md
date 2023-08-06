@@ -12,6 +12,8 @@
 
 ✔️ Prisma-ORM, Hibenate, PostgresQl, MySql, MSSQL 
 
+✔️ Haskell - cardano ( Proof of stake over Proof of work)
+
 
 
 <a href="https://codewithleo.vercel.app/"> Codewithleo</a>
