@@ -8,7 +8,7 @@
  
 ✔️ Typescript - Nodejs, React, Nextjs
 
-✔️ Prisma-ORM, Hibenate , PostgresQl, MySql, MSSQL 
+✔️ Prisma-ORM, Hibenate , PostgresQl, MySql, MSSQL , MongoDB 
 
 ✔️ Haskell - cardano ( Proof of stake over Proof of work)
 
