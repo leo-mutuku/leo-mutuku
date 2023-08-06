@@ -7,8 +7,6 @@
 ✔️ Javascript - Nodejs, React, Nextjs
  
 ✔️ Typescript - Nodejs, React, Nextjs
- 
-✔️ Figma - Prototype
 
 ✔️ Prisma-ORM, Hibenate, PostgresQl, MySql, MSSQL 
 
