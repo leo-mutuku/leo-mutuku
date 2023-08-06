@@ -26,4 +26,8 @@
 ⚪ <a href="https://codethedream.org/"> Code the dream</a>
 
 <h3 style"font-family: Courier, monospace;">Key skills</h3>
+ 🧷 Data stractures & Algorithms
+ 🧷 Object Oriented Programming
+ 🧷 Functional Programing
+ 🧷 SQL Optimization & Performance tuning
 
