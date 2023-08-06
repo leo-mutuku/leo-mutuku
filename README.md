@@ -27,15 +27,15 @@
 
 <h3 style"font-family: Courier, monospace;">Key skills</h3>
 
- 🧷 Data stractures & Algorithms
+ 📌 Data stractures & Algorithms
  
- 🧷 Object Oriented Programming
+ 📌 Object Oriented Programming
  
- 🧷 Functional Programing
+ 📌 Functional Programing
  
- 🧷 SQL Optimization & Performance tuning
+ 📌 SQL Optimization & Performance tuning
 
- 🧷 Blockchain , Smart contract Distributed Ledger
+  📌 Blockchain , Smart contract Distributed Ledger
 
  <h3> Domains Previous Worked</h3>
  
