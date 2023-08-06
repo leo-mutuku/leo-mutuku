@@ -2,7 +2,7 @@
 - [x] Fullstack developer focusing on fintech and atumation.
 # Expert in
  - [x] Nextjs, Reactjs, React native
- - [x] Spring boot, jav, nodejs, Haskell
+ - [x] Spring boot, java, nodejs, Haskell
  - [x] Git, docker, Devops
  - [X] Blockchain
 -  [X] Mentor , Content Creator (Open Source)
