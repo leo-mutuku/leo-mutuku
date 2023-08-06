@@ -1,4 +1,4 @@
-# Leonard Mutuku
+<h3 style"font-family: Courier, monospace;"> Leonard Mutuku </h3>
 - [x] Fullstack developer focusing on fintech and atumation.
 # Expert in
  - [x] Nextjs, Reactjs, React native
