@@ -37,7 +37,7 @@
 
   📌 Blockchain , Smart contract Distributed Ledger
 
- <h3> Domains Previous Worked</h3>
+ <h3> Domains and Projects Base (Work Experience!)</h3>
  
  🛒 E-commerce 😍😍
  
