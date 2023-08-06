@@ -31,9 +31,9 @@
  
  📌 Object Oriented Programming
 
+  📌 Functional Programing
+
   📌 DevOps and Cloud Technonlogies
- 
- 📌 Functional Programing
  
  📌 SQL Optimization & Performance tuning
 
