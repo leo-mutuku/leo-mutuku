@@ -1,7 +1,6 @@
-<h3 style"font-family: Courier, monospace; color💙"> Leonard Mutuku </h3>
-- [x] Fullstack developer focusing on fintech and atumation.
-<h3 style"font-family: Courie
- r, monospace;"> Programing Languages & Frameworks </h3>
+<h3 style"font-family: Courier, monospace; color:blue"> Leonard Mutuku  </h3>
+💡 Fullstack developer focusing on fintech and atumation.
+<h3 style"font-family: Courier, monospace;"> Programing Languages & Frameworks </h3>
  
  - [X] Java, Spring boot
  
