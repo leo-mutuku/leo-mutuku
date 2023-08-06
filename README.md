@@ -8,11 +8,16 @@
  
 ✔️ Typescript - Nodejs, React, Nextjs
 
-✔️ Prisma-ORM, Hibenate, PostgresQl, MySql, MSSQL 
+✔️ Prisma-ORM, Hibenate , PostgresQl, MySql, MSSQL 
 
 ✔️ Haskell - cardano ( Proof of stake over Proof of work)
 
 
+<h3 style"font-family: Courier, monospace;"> Prototyping Tools</h3>
+
+✔️ Figma ❤️  <a href="https://www.figma.com/"> 👉 here </a>
+
+✔️ Draw.io  <a  href="draw.io"> 👉 here </a> 
 
 <a href="https://codewithleo.vercel.app/"> Codewithleo</a>
 
