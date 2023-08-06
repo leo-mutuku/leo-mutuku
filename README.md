@@ -4,13 +4,13 @@
  
 ✔️ Java, Spring boot
  
- - [x] Javascript - Nodejs, React, Nextjs
+✔️ Javascript - Nodejs, React, Nextjs
  
- - [x] Typescript - Nodejs, React, Nextjs
+✔️ Typescript - Nodejs, React, Nextjs
  
- - [x] Figma - Prototype
+✔️ Figma - Prototype
 
- - [X] Prisma-ORM, Hibenate, PostgresQl, MySql, MSSQL 
+✔️ Prisma-ORM, Hibenate, PostgresQl, MySql, MSSQL 
 
 
 
