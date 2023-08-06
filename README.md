@@ -9,3 +9,5 @@
 
 <a href="https://codewithleo.vercel.app/"> Codewithleo</a>
 
+<h3 style"font-family: Courier, monospace;">Key skills</h3>
+
