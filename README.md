@@ -46,7 +46,7 @@
  
  🏫 Learning Institution  Loading...
  
- 🏡 Real Estate 😍😍 Loading...
+ 🏡 Real Estate Loading...
 
 <h3 style"font-family: Courier, monospace;"> Volunteer</h3>
 
@@ -54,7 +54,7 @@
 - Dedicated to levelling the paying ground for induviduals from diverse and underpresented backgrounds.
 
 <h3> Reach out for a review or project</h3>
-📧 le.mutuku@gmail.com😍
+📧 le.mutuku@gmail.com
 
 ☎️ +254715073726
 
