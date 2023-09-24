@@ -50,8 +50,6 @@
 
 🥂 Code The Dream
 
-🥂 Code With Leo
-
 <h3> Reach out for a review or project</h3>
 📧 le.mutuku@gmail.com😍
 
