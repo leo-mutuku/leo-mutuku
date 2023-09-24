@@ -49,6 +49,7 @@
 <h3 style"font-family: Courier, monospace;"> Volunteer</h3>
 
 🥂 Code The Dream
+- Dedicated to levelling the paying ground for induviduals from diverse and underpresented backgrounds.
 
 <h3> Reach out for a review or project</h3>
 📧 le.mutuku@gmail.com😍
