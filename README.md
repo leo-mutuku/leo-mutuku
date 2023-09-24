@@ -1,5 +1,5 @@
 <h3 style"font-family: Courier, monospace; color:blue"> Leonard Mutuku  </h3>
-💡  FullStack - Fintech, Blockchain and Web 3.0
+💡  FullStack - Clean coding, clear concept & continous improvement
 <h3 style="font-family: Courier, monospace;"> Programing Languages & Frameworks </h3>
  
 ✔️ Typescript, JavaScript & Java
