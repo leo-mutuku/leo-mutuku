@@ -33,6 +33,8 @@
 
  📌 Solid Docker and K8 CI/CD setups
 
+ 📌 Solid mastery of the react library
+
 
  <h3  style"font-family: Courier, monospace;"> Profile and project demos</h3>
  
