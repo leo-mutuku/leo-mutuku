@@ -1,16 +1,14 @@
 <h3 style"font-family: Courier, monospace; color:blue"> Leonard Mutuku  </h3>
 💡  FullStack - Fintech, Blockchain and Web 3.0
-<h3 style"font-family: Courier, monospace;"> Programing Languages & Frameworks </h3>
+<h3 style="font-family: Courier, monospace;"> Programing Languages & Frameworks </h3>
  
-✔️ Java, Spring boot
+✔️ Typescript, JavaScript & Java
  
-✔️ Javascript - Nodejs, React, Nextjs
- 
-✔️ Typescript - Nodejs, React, Nextjs
+✔️ Nextjs, reactjs, Nodejs & express, sring boot
 
-✔️ Prisma-ORM, Hibenate , PostgresQl, MySql, MSSQL , MongoDB 
+✔️ Prisma, Hibenate , PostgresQl, MySql, MSSQL , MongoDB 
 
-✔️ Haskell - cardano ( Proof of stake over Proof of work)
+✔️ 
 
 
 <h3 style"font-family: Courier, monospace;"> Prototyping Tools</h3>
