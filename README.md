@@ -8,7 +8,7 @@
 
 ✔️ Prisma, Hibenate , PostgresQl, MySql, MSSQL , MongoDB 
 
-✔️ 
+✔️ Rest API, GraphQL & SOAP(Spring boot)
 
 
 <h3 style="font-family: Courier, monospace;"> Prototyping Tools</h3>
