@@ -29,33 +29,36 @@
  
  📌 Object Oriented Programming
 
-  📌 Functional Programing
+ 📌 Functional Programing
 
-  📌 DevOps and Cloud Technonlogies
+ 📌 Solid experience in state management (Redux, reduxtoolkit)
  
- 📌 SQL Optimization & Performance tuning
+ 📌 Functional & class component, hooks and DOm Manupulation
 
-  📌 Blockchain , Smart contract Distributed Ledger
+ 📌 Generics, decorations, interface
 
- <h3> Domains and Projects Base (Work Experience!)</h3>
- 
- 🛒 E-commerce 😍😍
- 
- 🥘 Agriculture and Food Processing 😍😍
- 
- 🏦 Fintech & Banking 😍😍
- 
- 🏫 Learning Institution 😍😍
- 
- 🏡 Real Estate 😍😍
+ 📌 Solid Docker and K8 CI/CD setups
 
-<h3 style"font-family: Courier, monospace;"> Contribution</h3>
+
+ <h3  style"font-family: Courier, monospace;"> Profile and project demos</h3>
+ 
+ 🛒 E-commerce 😍😍 Loading...
+ 
+ 🥘 Agriculture and Food Processing 😍😍  Loading...
+ 
+ 🏦 Fintech & Banking 😍😍 Loading...
+ 
+ 🏫 Learning Institution 😍😍 Loading...
+ 
+ 🏡 Real Estate 😍😍 Loading...
+
+<h3 style"font-family: Courier, monospace;"> Volunteer</h3>
 
 🥂 Code The Dream
 
 🥂 Code With Leo
 
-<h3> Talk to</h3>
+<h3> Reach out for a review or project</h3>
 📧 le.mutuku@gmail.com😍
 
 ☎️ +254715073726
