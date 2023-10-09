@@ -1,8 +1,9 @@
 <h3 style"font-family: Courier, monospace; color:blue"> Leonard Mutuku  </h3>
-💡  FullStack - Clean coding, clear concept & continous improvement
+💡  FullStack - Clean coding, clear concept & continous improvement 
+
 <h3 style="font-family: Courier, monospace;"> Programing Languages & Frameworks </h3>
  
-✔️ Typescript, JavaScript & Java
+✔️ Typescript & Java are my specility
  
 ✔️ Nextjs, reactjs, Nodejs & express, sring boot
 
