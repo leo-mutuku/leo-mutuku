@@ -3,7 +3,7 @@
 
 <h3 style="font-family: Courier, monospace;"> Programing Languages & Frameworks </h3>
  
-✔️ Typescript & Java are my specility have expertise in a few other languages including python. 
+✔️ Typescript & Java is core programing languages have expertise in a few other languages including python. 
  
 ✔️ Nextjs, reactjs, Nodejs & express, sring boot
 
