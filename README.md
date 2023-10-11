@@ -28,7 +28,7 @@
 
  📌 Solid experience in state management (Redux, reduxtoolkit)
  
- 📌 Solid skills in react - material UI, chakra UI, Tailwinds 
+ 📌 Solid skills in react & typescript - material UI, chakra UI, Tailwinds 
 
  📌 Native Cloud & micro services
 
