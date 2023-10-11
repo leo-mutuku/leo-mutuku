@@ -39,7 +39,7 @@
 
  <h3  style"font-family: Courier, monospace;"> Profile and project demos</h3>
  
- ++ My experience is mainly drawn from banking, payment integration and e-commerce
+ + My experience is mainly drawn from banking, payment integration and e-commerce
  
 
 <h3 style"font-family: Courier, monospace;"> Volunteer</h3>
