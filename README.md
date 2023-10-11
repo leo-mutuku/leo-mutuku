@@ -24,17 +24,17 @@
  
  📌 Object Oriented Programming
 
- 📌 Functional Programing
+ 📌 Typescript & Java Advanced OOP concepts
 
  📌 Solid experience in state management (Redux, reduxtoolkit)
  
- 📌 Functional & class component, hooks and DOm Manupulation
+ 📌 Solid skills in react - material UI, chakra UI, Tailwinds 
 
- 📌 Generics, decorations, interface
+ 📌 Native Cloud & micro services
 
- 📌 Solid Docker and K8 CI/CD setups
+ 📌 Solid Docker and K8 -  CI/CD 
 
- 📌 Solid mastery of the react library
+ 📌 Solid network skills - CISCO & Huawei Certified
 
 
  <h3  style"font-family: Courier, monospace;"> Profile and project demos</h3>
