@@ -14,9 +14,9 @@
 
 <h3 style="font-family: Courier, monospace;"> Prototyping Tools</h3>
 
-✔️ Figma <a href="https://www.figma.com/"> 👉 here </a>
+✔️ Figma 
 
-✔️ Draw.io  <a  href="draw.io"> 👉 here </a> 
+✔️ Draw.io  
 
 <h3 style"font-family: Courier, monospace;">Key skills</h3>
 
