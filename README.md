@@ -39,15 +39,8 @@
 
  <h3  style"font-family: Courier, monospace;"> Profile and project demos</h3>
  
- 🛒 E-commerce Loading...
+ ++ My experience is mainly drawn from banking, payment integration and e-commerce
  
- 🥘 Agriculture and Food Processing Loading...
- 
- 🏦 Fintech & Banking  Loading...
- 
- 🏫 Learning Institution  Loading...
- 
- 🏡 Real Estate Loading...
 
 <h3 style"font-family: Courier, monospace;"> Volunteer</h3>
 
