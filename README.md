@@ -34,7 +34,7 @@
 
  📌 Solid Docker and K8 -  CI/CD 
 
- 📌 Solid network skills - CISCO & Huawei Certified
+ 📌 Solid network skills - CCNA & HCNA Certified
 
 
  <h3  style"font-family: Courier, monospace;"> Profile and project demos</h3>
