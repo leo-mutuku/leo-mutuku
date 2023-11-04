@@ -3,7 +3,7 @@
 
 <h3 style="font-family: Courier, monospace;"> Programing Languages & Frameworks </h3>
  
-✔️ Typescript & Java are my core programing languages have expertise in a few other languages including python. 
+✔️ Typescript & Java and python. 
  
 ✔️ Nextjs, reactjs, Nodejs & express, sring boot
 
@@ -34,12 +34,12 @@
 
  📌 Solid Docker and K8 -  CI/CD 
 
- 📌 Solid network skills - CCNA & HCNA Certified
+ 📌 TCP/IP protocol suite
 
 
  <h3  style"font-family: Courier, monospace;"> Profile and project demos</h3>
  
- + My experience is mainly drawn from banking, payment integration and e-commerce
+ + My experience banking, payment integration and e-commerce
  
 
 <h3 style"font-family: Courier, monospace;"> Volunteer</h3>
