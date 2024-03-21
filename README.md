@@ -5,7 +5,7 @@
 
 <h3 style="font-family: Courier, monospace;"> Programing Languages & Frameworks </h3>
  
-✔️ Typescript, javascript & Spring boot. 
+✔️ Typescript, javascript & java. 
  
 ✔️ Nextjs, reactjs, Nodejs & express, sring boot
 
