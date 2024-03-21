@@ -1,5 +1,7 @@
 <h3 style"font-family: Courier, monospace; color:blue"> Leonard Mutuku  </h3>
-💡  FullStack - With strong focus on frontend
+💡  FullStack - With strong focus on frontend.
+
+💡  Interested on private repos - Please drop me an email at le.mutuku@gmail.com
 
 <h3 style="font-family: Courier, monospace;"> Programing Languages & Frameworks </h3>
  
