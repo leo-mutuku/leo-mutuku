@@ -27,6 +27,8 @@
  📌 Object Oriented Programming
 
  📌 Typescript & Java Advanced OOP concepts
+ 
+ 📌 Tenstack Table(React Table), React Formik, React Leaflet
 
  📌 Solid experience in state management (Redux, reduxtoolkit)
  
