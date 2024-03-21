@@ -57,7 +57,8 @@
 ☎️ +254715073726
 
 <h3> Publication & Articles</h3>
-- Mastering git - (Code the dream - git collaboration student manual )
+- <a href="https://docs.google.com/presentation/d/1L5xgzedsTTNdJOv_r5Ef315TKa5Yy1uHjy3P1gFId-s/edit?usp=sharing"> Mastering git</a> - (Code the dream - git collaboration student manual )
+ 
 
 
  
