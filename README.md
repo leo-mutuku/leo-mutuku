@@ -1,5 +1,5 @@
 <h3 style"font-family: Courier, monospace; color:blue"> Leonard Mutuku  </h3>
-💡  FullStack - Clean coding, clear concept & continous improvement 
+💡  FullStack - With strong focus on frontend
 
 <h3 style="font-family: Courier, monospace;"> Programing Languages & Frameworks </h3>
  
