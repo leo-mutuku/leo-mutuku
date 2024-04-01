@@ -1,4 +1,4 @@
-<h3 style"font-family: Courier, monospace; color:blue text-align:center"> Leonard Mutuku  </h3>
+<h3 style"font-family: Courier, monospace; color:blue, text-align:center"> Leonard Mutuku  </h3>
 💡  FullStack - With strong focus on frontend.
 
 💡  Interested on private repos - Please drop me an email at le.mutuku@gmail.com
