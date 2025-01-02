@@ -5,11 +5,11 @@
 
 <h3 style="font-family: Courier, monospace;"> Programing Languages & Frameworks </h3>
  
-✔️ Typescript, javascript & java. 
+✔️ Typescript, javascript , Spring Boot & Java. 
  
 ✔️ Nextjs, reactjs, Nodejs & express, sring boot
 
-✔️ Prisma, Hibenate , PostgresQl, MySql, MSSQL , MongoDB 
+✔️ Prisma, Hibenate , PostgresQl, MySql, MSSQL , MongoDB, Redis 
 
 ✔️ Rest API, GraphQL & SOAP(Spring boot | Nodejs | Reactjs)
 
